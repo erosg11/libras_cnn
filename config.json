@@ -1,0 +1,11 @@
+{
+    "X_files": ["raw_X_Lasic.npy", "raw_X_Lasic.npy", "raw_X_Lasic.npy", "raw_X_Lasic_180x180.npy", "raw_X_Lasic_120x120.npy"],
+    "y_files": ["raw_y_Lasic.npy", "raw_y_Lasic.npy", "raw_y_Lasic.npy", "raw_y_Lasic_180x180.npy", "raw_y_Lasic_120x120.npy"],
+    "WEIGTHS_FORM": "weigths/%s %d lasic v2.h5",
+    "MODEL_FORM": "models/%s %d lasic v2.h5",
+    "RESULTS_FILE": "results_lasic v2.json",
+    "CURVE_FILE": "curve_lasic v2.json",
+    "train_files": "Lasic_K_Fold/train_Lasic*",
+    "test_files": "Lasic_K_Fold/test_Lasic*",
+    "gpus": 1
+}
