@@ -1,6 +1,6 @@
 bokeh==1.4.0
 holoview==1.12.6
-joblib==0.14.1
+joblib==1.2.0
 jupyterlab==1.2.5
 Keras==2.3.1
 keras-tqdm==2.0.1
